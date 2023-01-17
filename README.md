@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @farhoodtabrizi
-- 👀 I’m interested in #algotrading
+- 👀 I’m interested in #algotrading & #python 🧑‍💻️
 - 🌱 I’m currently learning #ML
 - 💞️ I’m looking to collaborate on #ANN
 - 📫 How to reach me ...
